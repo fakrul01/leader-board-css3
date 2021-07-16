@@ -160,7 +160,7 @@ hr {
 }
 
 
-/* tablet devices responsive */
+/* tablet devices responsives */
 
 @media only screen and (min-width: 688px) and (max-width: 992px) {
     .container {
